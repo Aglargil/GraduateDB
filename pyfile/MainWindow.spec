@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['MainWindow.py'],
-             pathex=['D:\\PyDB'],
+             pathex=['D:\\PyDB\\pyfile'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -29,4 +29,4 @@ exe = EXE(pyz,
           strip=False,
           upx=True,
           runtime_tmpdir=None,
-          console=False )
+          console=False , icon='Treetog-I-Documents.ico')

@@ -99,6 +99,7 @@ class StudentInfoCreateDialog(QDialog, Ui_Dialog):
         else:
             message(u"错误", u"日期输入错误！请重新输入")
             self.lineEdit_3.setText("")
+            l4=''
         l4=self.lineEdit_4.text()
         #判断性别输入格式
         if (re.search(r"男|女",l4))and(len(l4)==1)and(len(l4)==1):
@@ -106,6 +107,7 @@ class StudentInfoCreateDialog(QDialog, Ui_Dialog):
         else:
             message(u"错误", u"性别输入错误！请重新输入")
             self.lineEdit_4.setText("")
+            l5=''
         l5=self.lineEdit_5.text()
         #判断手机号码输入格式
         if (re.search(r"\d{11}", l5))and(len(l5)==11):
@@ -113,6 +115,7 @@ class StudentInfoCreateDialog(QDialog, Ui_Dialog):
         else:
             message(u"错误",u"手机号错误，应为11位数字！请重新输入" )
             self.lineEdit_5.setText("")
+            l6=''
         l6=self.lineEdit_6.text()
         #判断班级号输入格式
         if (re.search(r"\d{6}", l6))and(len(l6)==6):
@@ -120,6 +123,7 @@ class StudentInfoCreateDialog(QDialog, Ui_Dialog):
         else:
             message(u"错误",u"班级号错误，应为6位数字！请重新输入" )
             self.lineEdit_6.setText("")
+            l7=''
         l7=self.lineEdit_7.text()
         #判断学院号输入格式
         if (re.search(r"\d{2}", l7))and(len(l7)==2):
@@ -127,6 +131,7 @@ class StudentInfoCreateDialog(QDialog, Ui_Dialog):
         else:
             message(u"错误",u"学院号错误，应为2位数字！请重新输入" )
             self.lineEdit_7.setText("")
+            l8=''
         l8=self.lineEdit_8.text()
         #所有数据均输入正确
         if((l1!="")and(l2!="")and(l3!="")and(l4!="")and(l5!="")and(l6!="")and(l7!="")and(l8!="")):

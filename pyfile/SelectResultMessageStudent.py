@@ -11,7 +11,7 @@ from PyQt5.QtSql import *
 from Login import db, message
 global TopicNo
 global Tno
-
+global nowrow
 from Ui_SelectResultMessageStudent import Ui_Dialog
 
 
@@ -31,6 +31,7 @@ class SelectResultMessageStudentDialog(QDialog, Ui_Dialog):
 
         index=qindex
         model=qmodel
+        global nowrow
         nowrow=index.row()
         global TopicNo
         global Tno
@@ -48,14 +49,12 @@ class SelectResultMessageStudentDialog(QDialog, Ui_Dialog):
         from Login import account
         print("delete from [Select] where(TopicNo='{}')and(Sno='{}')and(Tno='{}')and(Admission='待定')".format(TopicNo, account, Tno))
         query.prepare("delete from [Select] where(TopicNo='{}')and(Sno='{}')and(Tno='{}')and(Admission='待定')".format(TopicNo, account, Tno))
-        query.exec_()
         model = QSqlTableModel()
         model.setQuery(query)
-        oldrow=model.rowCount()
         if query.exec_():
             model.setQuery(query)
             newrow=model.rowCount()
-            if newrow<oldrow:
+            if newrow<nowrow:
                 message(u"成功", u"撤销选题成功")
             else:
                 message(u"失败", u"撤销选题失败，您的志愿已被老师同意或拒绝，无法撤销")

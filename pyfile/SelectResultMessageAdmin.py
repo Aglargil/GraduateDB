@@ -12,7 +12,7 @@ from Ui_SelectResultMessageAdmin import Ui_Dialog
 global TopicNo
 global Sno
 global Tno
-
+global nowrow
 class SelectResultMessageAdminDialog(QDialog, Ui_Dialog):
     """
     Class documentation goes here.
@@ -29,6 +29,7 @@ class SelectResultMessageAdminDialog(QDialog, Ui_Dialog):
         
         index=qindex
         model=qmodel
+        global nowrow
         nowrow=index.row()
         global TopicNo
         global Sno
@@ -105,14 +106,12 @@ class SelectResultMessageAdminDialog(QDialog, Ui_Dialog):
         query=QSqlQuery(db)
         print("delete from [Select] where(TopicNo='{}')and(Sno='{}')and(Tno='{}')".format(TopicNo, Sno, Tno))
         query.prepare("delete from [Select] where(TopicNo='{}')and(Sno='{}')and(Tno='{}')".format(TopicNo, Sno, Tno))
-        query.exec_()
         model = QSqlTableModel()
         model.setQuery(query)
-        oldrow=model.rowCount()
         if query.exec_():
             model.setQuery(query)
             newrow=model.rowCount()
-            if newrow<oldrow:
+            if newrow<nowrow:
                 message(u"成功", u"撤销选题成功")
             else:
                 message(u"失败", u"撤销选题失败，您的志愿已被老师同意或拒绝，无法撤销")
