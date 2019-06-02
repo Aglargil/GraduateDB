@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project PyDB -->
+<!-- Saved: 2019-06-01, 23:50:58 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{5b58ddcd-ffeb-417d-ac4f-5c824319e41e}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>CreateUser.py</Filename>
+      <Linenumber>34</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{281b5bb7-1219-481c-810a-807dd5d7e609}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>CreateUser.py</Filename>
+      <Linenumber>77</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{8547eb46-a0fe-40c8-9147-1a6514f5c3f6}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>48</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{da25ea7e-a4b6-4582-a34e-1fda122ad216}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>60</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{1dc42742-3a8a-4ced-a6b9-40610eb2b9fb}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>74</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{dd7a23cb-acc1-4910-abf6-d22b359535af}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>83</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{68948588-aca2-4382-82c7-2082acc71920}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>98</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{46e0386e-ecba-45fd-9c95-fa47d8544aed}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>MainWindow.py</Filename>
+      <Linenumber>107</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{185e92a2-19bb-4243-aad8-41a36aded743}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResult.py</Filename>
+      <Linenumber>64</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{204cb096-bed3-4bb2-a5fa-c8d9dc085901}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResult.py</Filename>
+      <Linenumber>97</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{8f9b6b07-424d-400d-87a6-73373e34695d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResult.py</Filename>
+      <Linenumber>121</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{09bf452a-d63a-4c82-a9f8-46593c5fc165}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResultMessage.py</Filename>
+      <Linenumber>46</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{c6282381-a34f-45ed-b12f-719822af38a7}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResultMessage.py</Filename>
+      <Linenumber>81</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{35e26f9f-c197-4821-9169-8f0f674f5de7}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResultMessageAdmin.py</Filename>
+      <Linenumber>46</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{082285d4-ee06-44ef-9886-f85539b5db56}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResultMessageAdmin.py</Filename>
+      <Linenumber>75</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{ec2ce65d-8cf5-4c9f-9ac8-afcf31ae4890}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResultMessageAdmin.py</Filename>
+      <Linenumber>104</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{55fa05ae-6ee8-4c5d-8b91-81399494c492}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectResultMessageStudent.py</Filename>
+      <Linenumber>46</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0d8d6fda-8923-4a53-81dd-b4f0a7ffff79}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectTopic.py</Filename>
+      <Linenumber>54</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b48f3569-013c-4b2d-9b09-a189e43d88e3}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectTopic.py</Filename>
+      <Linenumber>68</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{43b2fdc4-3a05-4b75-a66d-9914f2ece4ee}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>SelectTopicDialog.py</Filename>
+      <Linenumber>43</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0b4744c1-56b6-452f-b53f-422618a77391}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfo.py</Filename>
+      <Linenumber>39</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{1f5a3fd7-f40a-4d0c-bd70-df7b23f85587}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfo.py</Filename>
+      <Linenumber>48</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{42d538fe-ccc0-444d-b234-24d5734938dc}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfo.py</Filename>
+      <Linenumber>57</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{04a735ed-bc00-477b-9c7c-bb4fc4581296}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfo.py</Filename>
+      <Linenumber>69</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{2063a8a8-6a2e-4601-8e0a-82c9a36d1b04}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfo.py</Filename>
+      <Linenumber>78</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{805bd6b3-fefa-4881-8ecb-f91be6a2b156}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfo.py</Filename>
+      <Linenumber>87</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{ed22154a-56b3-4b5e-b672-a0dee3440d0a}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfo.py</Filename>
+      <Linenumber>152</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{e457cd0f-f7e6-4b57-b87e-897ab1113824}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoCreate.py</Filename>
+      <Linenumber>43</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{cdfc9a38-7dca-4e70-bf9c-f2051dbc62da}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoCreate.py</Filename>
+      <Linenumber>52</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{d79de509-8e3c-48c5-be56-6554bd4c56a8}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoCreate.py</Filename>
+      <Linenumber>61</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0445cfb6-f973-4df8-a69a-afb6bfe7fe74}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoCreate.py</Filename>
+      <Linenumber>73</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{40b43168-94c2-453d-a412-5f4be934bfde}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoCreate.py</Filename>
+      <Linenumber>82</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{de218ff6-961f-4384-818f-8ce022e75bcd}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoCreate.py</Filename>
+      <Linenumber>91</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{8e5499d8-d890-4d09-b9c9-e675ab4c1d0b}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoCreate.py</Filename>
+      <Linenumber>159</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{d64ea502-2299-43de-a13f-12e9c591d715}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoList.py</Filename>
+      <Linenumber>47</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{005e9e71-1e82-433c-b285-8ef2cab1001c}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>StudentInfoList.py</Filename>
+      <Linenumber>64</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{0c117b9b-8622-4e93-ba6e-21b3922f36bb}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TeacherInfo.py</Filename>
+      <Linenumber>36</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{901d66d2-e99d-4dcf-aa4d-86bda7401092}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TeacherInfo.py</Filename>
+      <Linenumber>50</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b061a18a-0fc0-4400-a382-2643b83ff742}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TeacherInfo.py</Filename>
+      <Linenumber>63</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{48180521-1cac-43fe-974d-64f6e072b7a0}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TeacherInfo.py</Filename>
+      <Linenumber>72</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{49829296-2ed4-4a35-9e9d-72c0faaea9ee}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TeacherInfo.py</Filename>
+      <Linenumber>84</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a449be91-2898-4b43-9bf6-5a4fec0ecafe}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TeacherInfo.py</Filename>
+      <Linenumber>94</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{a68bae28-477d-4cdb-85fb-95495123dc24}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TeacherInfoList.py</Filename>
+      <Linenumber>58</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{c4fb7472-6023-420a-95c3-b80447320eed}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TopicModifyMessageModify.py</Filename>
+      <Linenumber>53</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b9ab2420-81fd-46a6-a28f-69a2811d6394}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:41</Created>
+    <Resource>
+      <Filename>TopicModifyMessageModify.py</Filename>
+      <Linenumber>76</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{df29e80f-a71f-45ab-b6e0-ebe85e399a00}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:43</Created>
+    <Resource>
+      <Filename>Login.py</Filename>
+      <Linenumber>45</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{7a413ae4-c888-4bbc-a303-8d99af1f1544}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:43</Created>
+    <Resource>
+      <Filename>Login.py</Filename>
+      <Linenumber>59</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{aabd9773-2860-4a54-aaf8-25728d91a70d}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2019-06-01, 22:26:43</Created>
+    <Resource>
+      <Filename>Login.py</Filename>
+      <Linenumber>90</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
